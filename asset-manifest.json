@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dccd0632.css",
+    "main.js": "/static/js/main.4df20cfa.js",
+    "runtime.js": "/static/js/runtime.798ab5b2.js",
+    "static/js/210.cb2ffd7e.chunk.js": "/static/js/210.cb2ffd7e.chunk.js",
+    "static/js/636.fdb64ca3.chunk.js": "/static/js/636.fdb64ca3.chunk.js",
+    "static/css/911.eae97959.chunk.css": "/static/css/911.eae97959.chunk.css",
+    "static/js/911.eeb473d1.chunk.js": "/static/js/911.eeb473d1.chunk.js",
+    "static/js/453.cddc2d8e.chunk.js": "/static/js/453.cddc2d8e.chunk.js",
+    "static/js/954.0a04aaf1.js": "/static/js/954.0a04aaf1.js",
+    "static/media/harman.svg": "/static/media/harman.08d85a171eb6e83443d24ed062405223.svg",
+    "static/media/onest-latin-wght-normal.woff2": "/static/media/onest-latin-wght-normal.d3910b5edf24a1d2b18f.woff2",
+    "static/media/Darwing.svg": "/static/media/Darwing.31f6b86eff3b8e6bce1ecbd9b9f96013.svg",
+    "workbox-e033a2e2.js": "/workbox-e033a2e2.js",
+    "static/media/comic-neue-latin-400-normal.woff2": "/static/media/comic-neue-latin-400-normal.f50eaba0eb4d65e17d4d.woff2",
+    "static/media/comic-neue-latin-400-normal.woff": "/static/media/comic-neue-latin-400-normal.57b81a5296a488d4dbfa.woff",
+    "static/media/onest-latin-ext-wght-normal.woff2": "/static/media/onest-latin-ext-wght-normal.162f32aba48779b4ebac.woff2",
+    "static/media/onest-cyrillic-wght-normal.woff2": "/static/media/onest-cyrillic-wght-normal.fbafe1fb6da3c441b651.woff2",
+    "static/media/aws2.webp": "/static/media/aws2.202c34ef5ef475ab8b39.webp",
+    "static/media/git.webp": "/static/media/git.fb246deea8f8e8fee808.webp",
+    "static/media/b2c.png": "/static/media/b2c.c8e16d81f69be20b2620.png",
+    "static/media/aws1.webp": "/static/media/aws1.e5a1ddf21fa9478c4874.webp",
+    "static/media/Ylightning.svg": "/static/media/Ylightning.9be4057841fa2ba63b84726c67aa1c9d.svg",
+    "static/media/soriana.webp": "/static/media/soriana.5f297214fb89693e573b.webp",
+    "service-worker.js": "/service-worker.js",
+    "static/media/favicon_cct.webp": "/static/media/favicon_cct.680c44360a951a3b471d.webp",
+    "static/media/delta.svg": "/static/media/delta.ef2097f2716fb88dab9066488d55930b.svg",
+    "index.html": "/index.html",
+    "static/media/Making-removebg-preview.webp": "/static/media/Making-removebg-preview.d4c04fa19ba8c614b787.webp",
+    "static/media/onest-cyrillic-ext-wght-normal.woff2": "/static/media/onest-cyrillic-ext-wght-normal.a724d345f2342e0283c2.woff2",
+    "static/media/Foley.webp": "/static/media/Foley.3557e87182975236bfce.webp",
+    "static/media/jbl.webp": "/static/media/jbl.2d9b18df151cb58f971a.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime.798ab5b2.js",
+    "static/js/954.0a04aaf1.js",
+    "static/css/main.dccd0632.css",
+    "static/js/main.4df20cfa.js"
+  ]
+}
